@@ -1,3 +1,9 @@
+<style>
+  * {
+    color: red !important;
+  }
+</style>
+
 # Hi there, I'm [YOUR NAME] 👋
 
 <div align="center">
