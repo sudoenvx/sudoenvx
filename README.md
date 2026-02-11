@@ -10,8 +10,8 @@
 ![Banner](https://i.imgur.com/REPLACE_WITH_YOUR_BANNER_IMAGE.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-[YOUR JOB TITLE]-2E86AB?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Location-[YOUR CITY, COUNTRY]-E94560?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Role-[Senior Software Engineer]-2E86AB?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Location-[Alexandria, Egypt]-E94560?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Available-Yes-16C79A?style=flat-square&labelColor=1a1a2e" />
 </p>
 
