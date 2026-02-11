@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          height: 200px;
+          background-color: #007bff; /* GitHub blue */
+          color: white;
+          font-family: sans-serif;
+          border-radius: 10px;
+          text-align: center;
+        }
+      </style>
+      <div class="container">
+        <h1>Styled Content!</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
