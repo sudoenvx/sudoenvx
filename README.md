@@ -1,9 +1,9 @@
 # Hi there, I'm Ali Tarek 👋
 
 
-<img src="x.svg" alt="Custom styled content" width="400" height="200"/>
-
-<iframe src="https://github.com/odoo/odoo" width="600" height="400" title="Description of embedded content"></iframe>
+<a href="https://google.com" target="_blank">
+  <img src="x.svg" alt="Custom styled content" width="400" height="200"/>
+</a>
 
 <div align="center">
 
