@@ -15,9 +15,19 @@
           text-align: center;
         }
       </style>
-      <div class="container">
+      <div class="container" id="cont">
         <h1>Styled Content!</h1>
       </div>
+
+      <script>
+        const el = document.getElementById("cont")
+        el.addEventListener('click', (e) => {
+          console.log("image was clicked !")
+        })
+      </script>
     </div>
+
+    
   </foreignObject>
 </svg>
+
