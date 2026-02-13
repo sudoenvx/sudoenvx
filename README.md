@@ -1,17 +1,12 @@
 # Hi there, I'm Ali Tarek 👋
 
-
-<a href="https://google.com" target="_blank">
-  <img src="x.svg" alt="Custom styled content" width="400" height="200"/>
-</a>
-
 <div align="center">
 
-![Banner](https://i.imgur.com/REPLACE_WITH_YOUR_BANNER_IMAGE.png)
+![Banner](https://i.imgur.com/dYhKKPG.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-[Senior Software Engineer]-2E86AB?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Location-[Alexandria, Egypt]-E94560?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-2E86AB?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-E94560?style=flat-square&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Available-Yes-16C79A?style=flat-square&labelColor=1a1a2e" />
 </p>
 
@@ -23,17 +18,17 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  [YOUR NAME]                                            │
-│  [YOUR JOB TITLE]                                       │
+│  Ali Tarek                                              │
+│  Senior Software Engineer                               │
 │                                                         │
-│  📍 [City, Country]                                     │
-│  📧 [your.email@gmail.com]                              │
-│  📞 [+XX XXXXXXXXXX]                                    │
-│  🌐 [your-portfolio-url.com]                            │
+│  📍 Alexandria, Egypt                                   │
+│  📧 ali.tarek@example.com                               │
+│  📞 +20 XXXXXXXXXX                                      │
+│  🌐 alistarek.dev                                       │
 └─────────────────────────────────────────────────────────┘
 ```
 
-[Write 2–3 sentences about yourself here. Mention your passion, years of experience, and what drives you professionally.]
+Passionate Senior Software Engineer with 6+ years of experience building scalable web applications and leading development teams. I specialize in full-stack development with modern JavaScript frameworks and cloud technologies. Driven by solving complex problems and mentoring junior developers.
 
 ---
 
@@ -41,9 +36,9 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| [Job Title] | [Company Name] | [Start Date] – [End Date] |
-| [Job Title] | [Company Name] | [Start Date] – [End Date] |
-| [Job Title] | [Company Name] | [Start Date] – [End Date] |
+| Senior Software Engineer | Tech Solutions Inc. | 2022 – Present |
+| Full Stack Developer | Digital Innovations Ltd. | 2020 – 2022 |
+| Frontend Developer | StartUp Hub Egypt | 2018 – 2020 |
 
 ---
 
@@ -51,8 +46,8 @@
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| [Degree Name] | [University Name] | [Start Year] – [End Year] |
-| [Degree Name] | [University Name] | [Start Year] – [End Year] |
+| Bachelor of Science in Computer Science | Alexandria University | 2016 – 2020 |
+| Professional Development Certification | Coursera | 2020 – Present |
 
 ---
 
@@ -72,10 +67,10 @@
 
 ### Styling & UI
 <p>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=fff" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Material-UI-0081CB?style=flat-square&logo=Material Design&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=Material%20Design&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" />
 </p>
 
 ### Backend & Databases
@@ -92,7 +87,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=fff" />
   <img src="https://img.shields.io/badge/Jest-99425B?style=flat-square&logo=Jest&logoColor=fff" />
   <img src="https://img.shields.io/badge/Cypress-1B7244?style=flat-square&logo=Cypress&logoColor=fff" />
   <img src="https://img.shields.io/badge/Webpack-8DD35F?style=flat-square&logo=Webpack&logoColor=000" />
@@ -105,10 +100,10 @@
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| [Certification Name] | [Issuer] | [Year] |
-| [Certification Name] | [Issuer] | [Year] |
-| [Certification Name] | [Issuer] | [Year] |
-| [Certification Name] | [Issuer] | [Year] |
+| AWS Solutions Architect Associate | Amazon Web Services | 2023 |
+| Full Stack JavaScript Developer | FreeCodeCamp | 2022 |
+| React Advanced Patterns | Scrimba | 2021 |
+| JavaScript Algorithms & Data Structures | FreeCodeCamp | 2020 |
 
 ---
 
@@ -116,8 +111,9 @@
 
 | Language | Proficiency |
 |----------|-------------|
-| [Language] | [Native / Fluent / Intermediate] |
-| [Language] | [Native / Fluent / Intermediate] |
+| Arabic | Native |
+| English | Fluent |
+| French | Intermediate |
 
 ---
 
@@ -139,16 +135,16 @@
 
 <div align="center">
 
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:ali.tarek@example.com">
   <img src="https://img.shields.io/badge/Email-E94560?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1a1a2e" />
 </a>
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]" target="_blank">
+<a href="https://linkedin.com/in/alitarek" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e" />
 </a>
 <a href="https://github.com/sudoenvx" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-c9d1d9?style=for-the-badge&logo=github&logoColor=000&labelColor=1a1a2e" />
 </a>
-<a href="https://[YOUR_PORTFOLIO_URL]" target="_blank">
+<a href="https://alistarek.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-16C79A?style=for-the-badge&logo=globe&logoColor=fff&labelColor=1a1a2e" />
 </a>
 
