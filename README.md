@@ -115,4 +115,4 @@ and reliable in production.
 - GitHub: [`github.com/sudoenvx`](https://github.com/sudoenvx)
 - LinkedIn: [`linkedin.com/in/sudoenvx/`](https://www.linkedin.com/in/sudoenvx/)
 - Email: [`sudoenvx@gmail.com`](mailto:sudoenvx@gmail.com)
-- Portfolio: [`sudoenvx.vercel.app`](https://sudoenvx.vercel.app)
+- Portfolio: [`portenvx.vercel.app`](https://portenvx.vercel.app)
